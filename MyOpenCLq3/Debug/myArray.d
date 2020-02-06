@@ -1,0 +1,1 @@
+myArray.d: ../myArray.c
